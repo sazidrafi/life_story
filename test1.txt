@@ -1,3 +1,4 @@
 hey there!!!!
 adding something to check changes through branches
-adding this extra line to pull by using terminal
+adding this extra line to push by using terminal
+adding this extra line to pull in terminal git
