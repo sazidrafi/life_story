@@ -1,2 +1,2 @@
 hey there!!!!
-adding something to checck changes through branches
+adding something to check changes through branches
