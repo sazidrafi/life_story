@@ -6,3 +6,4 @@ adding this extra line to check branching by terminal to remote repository
 
 
 merging local branch to a local branch
+Author name: Sazidul
