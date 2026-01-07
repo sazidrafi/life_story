@@ -9,4 +9,4 @@ merging local branch to a local branch
 Author name: Sazidul  //author name added and solved issue #4
 
 
-new line added from main branch
+new line added from branch
